@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
- - [Hello world!]
+ - Hello world!
   
- - [Active directory home lab] https://github.com/Kmani52/Active-DIrectory-Lab
+ - Active directory home lab
+https://github.com/Kmani52/Active-DIrectory-Lab
 
   <b><h2> Certifications</h2><b>
  - [Google Cybersecurity Professional]
