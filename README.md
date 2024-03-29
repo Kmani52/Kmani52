@@ -6,6 +6,9 @@
   
  - Active directory home lab
 https://github.com/Kmani52/Active-DIrectory-Lab
+ 
+ - Security Audit
+   
 
   <b><h2> Certifications</h2><b>
  - [Google Cybersecurity Professional]
