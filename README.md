@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Hello world!</b>
+- [Hello world!]
   
-- <b>Active directory home lab <b>
+- [Active directory home lab]
 
   <b><h2> Certifications</h2><b>
-- <b> Google Cybersecurity Professional <b>
+- [Google Cybersecurity Professional]
 
 
 <h2> 🤳 Connect with me:</h2>
